@@ -1,0 +1,22 @@
+header{
+    color: white;
+    font-size: xx-large;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.divzin{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    margin-bottom: auto;
+    width: 500px;
+    height: 500px;
+}
+.tabela{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    margin-bottom: auto;
+}
